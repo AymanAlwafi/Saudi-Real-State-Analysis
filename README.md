@@ -1,5 +1,5 @@
 # Saudi-Real-State-Analysis
-Saudi Real Estate AI 🇸🇦
+Saudi Real Estate AI
 
 A Machine Learning Approach aligned with Saudi Vision 2030
 
@@ -40,10 +40,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 Run the analysis script (Ensure Listings.csv is in the folder):
 
-python final_project_complete.py
+Project_v3.ipynb
 
 
-Author
 
 Ayman Alwafi
 
